@@ -10,4 +10,13 @@ hotel bookings application that I made at Outsystems
 # Documentation
 
 - Landing Page
+
 ![Landing Page](Screenshot/Home.jpg)
+
+- Rooms
+
+![Rooms](Screenshot/Room.jpg)
+
+- Bookings List
+
+![list](Screenshot/Booking%20List.jpg)
